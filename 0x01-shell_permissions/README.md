@@ -1,1 +1,1 @@
-10-mirrior_permissions
+10-mirror_permissions
